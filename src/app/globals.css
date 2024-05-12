@@ -31,3 +31,11 @@ body {
     text-wrap: balance;
   }
 }
+/* Customize for your preferred black theme */
+body {
+  background-image: url(/public/wave-haikei.svg);
+  color: #fff;
+  font-family: sans-serif;
+}
+
+/* Other styling for buttons, progress bar, etc. */
